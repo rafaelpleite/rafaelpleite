@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning data science through the book Hands-on Machine Learning with Scikit-Learn, Keras and TensorFlow 2nd Edition and TensorFlow in Practice Specialization on Coursera.
 - 👯 I’m looking to collaborate on an intership.
 - 💬 Ask me about anything, I will try to help you.
-- 📫 How to reach me: https://www.linkedin.com/in/rafaellprudencio/
+- 📫 How to reach me: https://www.linkedin.com/in/rafaellprudencio/ .
