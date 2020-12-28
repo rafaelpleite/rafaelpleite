@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">A student passionate about data science from São Paulo</h3>
 
-<!--
-**rafaelpleite/rafaelpleite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on  [Docking Molecular](https://github.com/rafaelpleite/Docking-Molecular) where I'm implementing algorithms to help biologist and bio medics to study COVID-19.
