@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">A student passionate about data science from São Paulo</h3>
+<h3 align="center">A student of bachelor of physics passionate about data science from São Paulo</h3>
 
 Here are some ideas to get you started:
 
