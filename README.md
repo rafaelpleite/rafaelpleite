@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">A AI Research Engineer & Data Scientist from São Paulo 👋🇧🇷</h3>
 
-- **Expertise**: With over 5 years of hands-on experience, I bridge the gap between complex AI research and practical applications in high-impact digital products.
+- **Expertise**: With over 7 years of hands-on experience, I bridge the gap between complex AI research and practical applications in high-impact digital products.
 - **Roles**: My multi-faceted role includes exploring and optimizing cutting-edge AI models, and implementing them in collaboration with software engineering teams 👨‍💻.
 - **Data Management**: I'm adept at managing large datasets, from acquisition to labeling and data loading 📊.
 - **Collaboration**: I actively coordinate with product teams to meet specific AI requirements 🤝.
