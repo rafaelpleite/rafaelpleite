@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
-<h3 align="center">A AI Research Engineer & Data Scientist from São Paulo 👋🇧🇷</h3>
+<h3 align="center">AI Research Engineer & Data Scientist from São Paulo 🇧🇷</h3>
 
-- **Expertise**: With over 7 years of hands-on experience, I bridge the gap between complex AI research and practical applications in high-impact digital products.
-- **Roles**: My multi-faceted role includes exploring and optimizing cutting-edge AI models, and implementing them in collaboration with software engineering teams 👨‍💻.
-- **Data Management**: I'm adept at managing large datasets, from acquisition to labeling and data loading 📊.
-- **Collaboration**: I actively coordinate with product teams to meet specific AI requirements 🤝.
-- **Impact-Driven**: I'm always open to new challenges and collaborations that have the potential for transformative impact.
-- **Core Skills**: My skill set includes robust analytical abilities, meticulous attention to detail, and a balanced approach to speed and quality 📈👀.
-- **Agility**: I navigate the competitive tech landscape with the agility to deliver quality results quickly 🚀.
-- **Quality Commitment**: I'm dedicated to achieving high-quality outcomes in every project 🏆.
+- **Expertise**: 7+ years bridging advanced AI research and real-world applications in high-impact products.
+- **Roles**: Working across model optimization, experimentation, and production deployment with engineering teams 👨‍💻.
+- **Data**: End-to-end experience with large-scale datasets — acquisition, labeling, and pipelines 📊.
+- **Collaboration**: Strong partnership with product teams to translate business needs into AI solutions 🤝.
+- **Impact**: Focused on building scalable, high-value systems that drive measurable results 📈.
+- **Execution**: Balance between speed, quality, and reliability in competitive environments 🚀.
 
-Feel free to reach out on [LinkedIn](https://www.linkedin.com/in/rafaellprudencio/) for potential collaborations or projects. Together, let's harness the immense potential of AI to make a lasting, positive impact on society 💡.
+Feel free to reach out on <a href="https://www.linkedin.com/in/rafaellprudencio/" target="_blank">LinkedIn</a>.
+
+<h3 align="left">🏆 Certifications</h3>
+
+<p align="left">
+  <a href="https://www.credly.com/badges/37743f05-0556-4e0b-b369-fe537845d3c1/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/8b9e4d4d-6b8b-4d2d-bc6f-4c2d5f5e7dcb/image.png" alt="AWS Certified Data Engineer – Associate" width="120"/>
+  </a>
+</p>
