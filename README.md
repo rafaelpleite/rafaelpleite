@@ -14,6 +14,6 @@ Feel free to reach out on <a href="https://www.linkedin.com/in/rafaellprudencio/
 
 <p align="left">
   <a href="https://www.credly.com/badges/37743f05-0556-4e0b-b369-fe537845d3c1/public_url" target="_blank">
-    <img src="https://images.credly.com/size/340x340/images/8b9e4d4d-6b8b-4d2d-bc6f-4c2d5f5e7dcb/image.png" alt="AWS Certified Data Engineer – Associate" width="120"/>
+    <img src="https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" alt="AWS Certified Data Engineer – Associate" width="120"/>
   </a>
 </p>
